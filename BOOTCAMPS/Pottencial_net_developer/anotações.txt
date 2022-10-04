@@ -1,2 +1,10 @@
 Link para download do Git: https://git-scm.com/downloads
 o Git bash é um terminal extendido para otimizar o uso do git
+
+Comandos github:
+
+git status
+git add .
+git status
+git commit -m "inclusão de anotações, sobre o curso de  Git/GitHub"
+git push origin main
