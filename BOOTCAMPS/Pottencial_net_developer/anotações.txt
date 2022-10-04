@@ -3,6 +3,9 @@ o Git bash é um terminal extendido para otimizar o uso do git
 
 Comandos github:
 
+git config --global user.name "Fulano de Tal"
+git config --global user.email fulanodetal@exemplo.br
+
 git status
 git add .
 git status
